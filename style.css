@@ -1,0 +1,97 @@
+.img1-1{
+    width:100%;
+}
+
+.img1-2{
+    width:100%;
+}
+
+.class2{
+    display: flex;
+    margin: 0 50px 0 0;
+    background: lightblue;
+    width: 100%;
+    border: 0;
+    padding: 0 30px;
+}
+.form1{
+    margin-top: 10px;
+    background: lightgoldenrodyellow
+    font-weight:bold;
+    border-radius: 4px;
+    border: 0;
+}
+.btn1{
+    color: rgb(0, 0, 0);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 12px;
+    padding-left:  12px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 100%;
+    background: lightgreen;
+    border-bottom: 4px solid rgb(0, 0, 0);
+    border: 0;
+}
+.btn2{
+    color: rgb(0, 0, 0);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 12px;
+    padding-left:  12px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 100%;
+    background: lightcoral;
+     border-bottom: 4px solid rgb(0, 0, 0);
+     border: 0;
+}
+.btn1:hover{
+    background: green;
+}
+.btn2:hover{
+    background: gold;
+}
+.mail-form,.text-form,#prove{
+    color:black;
+    background: lightskyblue;
+     border: 0;
+     padding: 6px 12px;
+     border-radius: 5px;
+     font-weight: bold;
+}
+.un{
+    text-decoration: 0;
+    color:  rgb(12, 154, 147);
+}
+textarea{
+    color: black;
+    background: lightseagreen;
+    border: 0;
+    border-radius: 12px;
+}
+#main-title{
+    text-shadow: -10px 10px 2px lightgray;
+    text-align: center;
+    font-weight: bold;
+    font-size: 90px;
+}
+article{
+    display: flex;
+    
+    
+.ar-div{
+    margin: 0 100px;
+}
+legend{
+    color: black;
+    font-weight: bold;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+
+
